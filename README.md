@@ -1,3 +1,5 @@
+![venice_logo](/Venice.png)
+
 # Recibos  Html
 Este repositório contém arquivos HTML de recibos, utilizados para a impressão de comprovantes em terminais Moderninha Smart2. 
 

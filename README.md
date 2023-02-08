@@ -1,4 +1,4 @@
-<img src="https://github.com/Venice-Sistemas/html-receipts/blob/main/Venice.png?raw=true" width="100" height="100">
+<img src="https://github.com/Venice-Sistemas/html-receipts/blob/main/Venice.png?raw=true" width="200">
 
 # Recibos  Html
 Este repositório contém arquivos HTML de recibos, utilizados para a impressão de comprovantes em terminais Moderninha Smart2. 
